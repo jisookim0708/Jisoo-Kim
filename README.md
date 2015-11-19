@@ -4,4 +4,4 @@
 
 # Education
 
-University of Michigan
+University of Michigan, BA in Psychology
