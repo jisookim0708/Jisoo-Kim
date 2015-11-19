@@ -1,6 +1,6 @@
 # Project
 
-[Twitter Emoji Analysis](bcko.github.io/twitter-emoji/)
+[Twitter Emoji Analysis](https://bcko.github.io/twitter-emoji/)
 
 # Education
 
